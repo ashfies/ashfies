@@ -14,10 +14,10 @@
         <td style="vertical-align: top;">
 <img width=250 src = "https://aoshifullalalalal.carrd.co/assets/images/image15.png?v=646155db" />
 <td style="vertical-align: top;">
-<p align="center"> $\color{#1f2734}{\textsf{we won't last forever. i won't last forever. everything will end.}}$
-<p align="center">$\color{#d0ccc1}{\textsf{aoshi / ash / taco , 16 eng/ru ; under 14 or over 18 dni/iwc. learning indonesian}}$
+<p align="center"> $\color{#1f2734}{\textsf{we won't last forever. i}}$ $\color{#1f2734}{\textsf{ won't last forever.}}$ $\color{#1f2734}{\textsf{everything will end.}}$
+<p align="center">$\color{#d0ccc1}{\textsf{aoshi / ash / taco , 16 }}$ $\color{#d0ccc1}{\textsf{eng/ru ; under 14 or over}}$ $\color{#d0ccc1}{\textsf{ 18 dni/iwc. learning}}$ $\color{#d0ccc1}{\textsf{ indonesian}}$
  
-<p align="center">$\color{#d0ccc1}{\textsf{spearmaster and dr.kel №1 fan btw.}}$
+<p align="center">$\color{#d0ccc1}{\textsf{spearmaster and dr.kel}}$ $\color{#d0ccc1}{\textsf{ №1 fan btw.}}$
  </table>
 
 <p align="center"> <img src = "https://aoshifullalalalal.carrd.co/assets/images/image17.png?v=646155db" />
@@ -27,9 +27,9 @@
     <table>
         <tr>
         <td style="vertical-align: top;">
- <p align="center"> $\color{#d0ccc1}{\textsf{dont mention k*wies and the owl house pretty please. i hate those things}}$
+ <p align="center"> $\color{#d0ccc1}{\textsf{dont mention k*wies}}$ $\color{#d0ccc1}{\textsf{ and the owl house}}$ $\color{#d0ccc1}{\textsf{ pretty please. i hate}}$ $\color{#d0ccc1}{\textsf{ those things}}$
 
- <p align="center">$\color{#1f2734}{\textsf{my chat is constantly turned off, w2i if you want me to see ur text}}$
+ <p align="center">$\color{#1f2734}{\textsf{my chat is constantly}}$ $\color{#1f2734}{\textsf{ turned off, w2i if you}}$ $\color{#1f2734}{\textsf{ want me to see ur text}}$
 
   
  <p align="center"> <a href="https://guns.lol/ashdiesalone">contact me</a> ; <a href="https://aoshi.atabook.org/">atabook</a>
@@ -40,7 +40,7 @@
 
 <details align=middle>
 <summary>$${\color{#d0ccc1}friends}$$</summary>
-<a href="https://github.com/michaburgerking">m*sha</a> *skull emoji* ; <a href="https://github.com/scrsonmythighs">rin</a> ; <a href="https://github.com/sprout-seedly-berryfunny">daniel</a>
+<a href="https://github.com/michaburgerking">misha</a> *skull emoji* ; <a href="https://github.com/scrsonmythighs">rin</a> ; <a href="https://github.com/sprout-seedly-berryfunny">daniel</a>
 </details>
 
 <details align=middle>
