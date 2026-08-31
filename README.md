@@ -45,7 +45,7 @@
 
 <details align=middle>
  <summary>$${\color{#1f2734}nominations (thank you)}$$</summary>
- <a href="https://github.com/pt-contributers">pt-contributers</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a>
+(i was ashfies back in the day, so ashfies=me) <a href="https://github.com/pt-contributers">pt-contributers</a> <a href="https://github.com/pt-hall-of-media">pt-hall-of-media</a>
  </details>
 
  <p align="center">
