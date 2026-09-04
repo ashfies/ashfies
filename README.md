@@ -40,7 +40,7 @@
 
 <details align=middle>
 <summary>$${\color{#d0ccc1}friends}$$</summary>
-<a href="https://github.com/michaburgerking">misha</a> *skull emoji* ; <a href="https://github.com/scrsonmythighs">rin</a> ; <a href="https://github.com/sprout-seedly-berryfunny">daniel</a>
+<a href="https://github.com/michaburgerking">misha</a> *skull emoji* ; <a href="https://github.com/keepmeonfire">avery <3</a> ; <a href="https://github.com/scrsonmythighs">rin</a> ; <a href="https://github.com/sprout-seedly-berryfunny">daniel</a>
 </details>
 
 <details align=middle>
